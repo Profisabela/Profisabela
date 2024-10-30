@@ -16,11 +16,11 @@ div{
 }
 
 .chamada-texto {
-    margin-right: 5%;
+    margin-right:5%;
 }
 
 img{
-    heigth: 200px;
+    height:200px;
 }   
 .categoria-videos{
     display:flex;
