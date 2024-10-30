@@ -15,6 +15,10 @@ div{
     margin-right:20px;
 }
 
-.chamada-texto{
+.chamada-texto {
     margin-right: 5%;
-} 
+}
+
+img{
+    heigth: 200px;
+}   
