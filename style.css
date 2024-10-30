@@ -23,7 +23,7 @@ img{
     height:200px;
 }   
 .categoria-videos{
-    display:flex;
+    display: flex;
     overflow-x: auto;
-    gap:10px;
+    gap: 10px;
 }
