@@ -12,16 +12,17 @@ section {
 }
 
 div{
-    margin-right:20px;
+    margin-right: 20px;
 }
 
 .chamada-texto {
-    margin-right:5%;
+    margin-right: 5%;
 }
 
 img{
-    height:200px;
-}   
+    height: 200px;
+}  
+ 
 .categoria-videos{
     display: flex;
     overflow-x: auto;
